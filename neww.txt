@@ -1,11 +1,13 @@
 this is the next commit
 
 void main()
-<<<<<<< HEAD
+ HEAD
+ HEAD
 //int main=90;
 //this is from main
-=======
 printf("addressed review comment")
->>>>>>> Dev
+ Dev
 
 return 0;
+printf("addressed review comment")
+ aa8bf52623b11ad6af2ded837af432e93417e436

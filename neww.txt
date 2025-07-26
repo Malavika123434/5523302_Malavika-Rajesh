@@ -1,5 +1,9 @@
 this is the next commit
 
 void main()
+<<<<<<< HEAD
 //int main=90;
 //this is from main
+=======
+printf("addressed review comment")
+>>>>>>> Dev

@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 read the file
 //int main=90;
 //this is from main
+=======
+read the file
+>>>>>>> Dev

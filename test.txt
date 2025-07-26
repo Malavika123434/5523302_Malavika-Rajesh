@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 int i
 //int main=90;
 //this is from main
+=======
+int i
+>>>>>>> Dev

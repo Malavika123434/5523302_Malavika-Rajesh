@@ -5,3 +5,4 @@ int i
 =======
 int i
 >>>>>>> Dev
+return 0;

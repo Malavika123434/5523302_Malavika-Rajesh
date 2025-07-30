@@ -1,0 +1,33 @@
+filter and pattern matching commands:
+more
+less
+head
+tail
+cut
+paste
+tr
+sort
+uniq
+cmp
+diff
+grep
+sed
+awk
+
+file permission commands:
+
+chmod
+chown
+umask
+
+basic commands:
+
+ls
+cd
+pwd
+gcc
+cp
+cat
+wc
+whatis cat
+

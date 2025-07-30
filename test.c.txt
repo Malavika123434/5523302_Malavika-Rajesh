@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+ HEAD
 return 0;
 //int main=90;
 //this is from main
-=======
 return 0;
->>>>>>> Dev
+ Dev
 while

@@ -1,0 +1,6 @@
+100 | chennai | tamilnadu | 4800
+101 | pune | maharashtra |5200
+102 | mumbai | maharastra | 5200
+103 | delhi | delhi | 7000
+104 | kolkata | west bengal | 1200
+
